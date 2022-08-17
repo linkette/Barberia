@@ -1,0 +1,77 @@
+body{
+    background: white;
+}
+/* diseño de la imagen */
+#banner{
+    width: 100%;
+}
+/* diseño del titulo */
+.tituloPrincipal{
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(143, 142, 142);
+    border: 5px solid black;
+} 
+/*para personalizar la imagen*/
+.banner{
+    width: 100%;
+}
+/*primer divisor principal*/
+.principal{
+    background: rgb(187, 187, 187);
+    padding: 5px;
+}
+ 
+/* bloque para todos los h2*/
+.subTitulo{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid black;
+}
+/* diseño de todos los parrafos */
+p{
+    text-align: center;
+    
+}
+/* diseño del parrafo de la mision*/
+#mision {
+    font-size: 20px;
+}
+em strong{
+    color: red;
+
+}
+.diferenciales{
+    background: white;
+    padding: 10%;
+   
+}
+
+/*diseño de las listas*/
+.items{
+    
+    font-size: 20px;
+    font-style: italic;
+}
+/*lista que se euncuentra en nuestra pagina*/
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+/*imagen junto a nuestra lista*/
+.imgDiferencial{
+    width: 50%;
+}
+
+/*css para el home*/
+
+.banner{
+    width: 100%;
+
+}
